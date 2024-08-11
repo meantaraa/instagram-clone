@@ -2,7 +2,7 @@
 This project is a responsive clone of Instagram, built using HTML, CSS, and JavaScript. It aims to replicate the core design and functionality of Instagram's user interface, focusing on responsiveness across different devices.
 
 # Live Demo
-Check out the live version of the project [here](https://responsive-insta-clone.vercel.app/).
+Check out the live version of the project [here](https://responsive-ig-clone.vercel.app/).
 
 # Features
 1. Responsive Design: The layout adapts seamlessly to different screen sizes, providing a consistent user experience on desktops, tablets, and mobile devices.
